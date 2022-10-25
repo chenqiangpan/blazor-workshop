@@ -337,3 +337,7 @@ ASALocalRun/
 
 # Visual Studio Code folder
 .vscode/
+/save-points/00-get-started/BlazingPizza.Server/pizza.db-shm
+/save-points/01-Components-and-layout/BlazingPizza.Server/pizza.db-shm
+/save-points/00-get-started/BlazingPizza.Server/pizza.db-wal
+/save-points/01-Components-and-layout/BlazingPizza.Server/pizza.db-wal
